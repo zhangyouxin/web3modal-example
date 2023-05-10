@@ -6,7 +6,7 @@ import WalletLink from 'walletlink'
 import Web3Modal from 'web3modal'
 import { ellipseAddress, getChainData } from '../lib/utilities'
 
-const INFURA_ID = '460f40a260564ac4a4f4b3fffb032dad'
+const INFURA_ID = '672b5c6c2edc4ad1bd3f21c153367acc'
 
 const providerOptions = {
   walletconnect: {
